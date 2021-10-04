@@ -13,8 +13,7 @@ Lets try to see if there is anything in **robots.txt**
 
 ![image](https://user-images.githubusercontent.com/57955404/135822723-0a8a1690-c29e-45ec-90f3-2b6037c0c03c.png)
 
-> ####Flag
-> It seems that this is the secret url. Enter the URL `https://skrctf.me/ports/4000/3aaec0a26f2a63d6ff3dfcfbf8e7902a.html` to get the flag.
+It seems that this is the secret url. Enter the URL `https://skrctf.me/ports/4000/3aaec0a26f2a63d6ff3dfcfbf8e7902a.html` to get the flag.
 
 
 
@@ -32,8 +31,7 @@ Looking at the data, it seems like it is encoded with URL Encoding because there
 
 **SKR%7BI_L0v35_C00k13ssss%21_02f627%7D**
 
-> ####Flag
-> Decode it with URL Decoding and you will get the flag.
+Decode it with URL Decoding and you will get the flag.
 
 
 
@@ -51,7 +49,6 @@ Looking at the cookies again we can see that the value for the admin cookie is *
 
 Lets try to change the value to **true**.
 
-> ####Flag
-> Click on the button again and you will get the flag.
+Click on the button again and you will get the flag.
 
 
