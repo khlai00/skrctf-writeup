@@ -1,7 +1,7 @@
 # SKRCTF Writeups
 Writeups For SKRCTF
 
-<--Disclaimer-->
+### Disclaimer
 
 I have no involvement in the development of SKRCTF. Just wanted to do some writeups of their challenges.
 
