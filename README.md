@@ -8,5 +8,5 @@ I have no involvement in the development of SKRCTF. Just wanted to do some write
 All Credits goes to:
 SKRCTF @ https://skrctf.me/
 
-Created By: Team SKR @ teamskr.rocks
+Created By: Team SKR @ http://teamskr.rocks/
 
