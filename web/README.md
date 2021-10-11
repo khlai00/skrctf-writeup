@@ -79,7 +79,7 @@ How to get the flag with the cookies?
 
 ![image](https://user-images.githubusercontent.com/57955404/135817592-da23ae60-f0e7-4d39-a792-877e3e39f250.png)
 
-This is another cookie challenge, but there is a button. Once cliked it says **only admin can get the flag**!
+This is another cookie challenge, but there is a button. Once clicked it says **only admin can get the flag**!
 
 Looking at the cookies again we can see that the value for the admin cookie is **false**.
 
