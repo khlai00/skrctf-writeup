@@ -42,4 +42,16 @@ OMG! I lost all my network history data, luckily I got capture some data on a pc
 
 > network_data.pcap
 
+This is a packet capture file. Lets open it with wireshark. 
+
+Looking through all of the packets and it seems like there is nothing particularly interesting until i scrolled to the bottom. 
+
+![image](https://user-images.githubusercontent.com/57955404/138458586-a027040f-ebca-460c-bd68-bf461cc807c4.png)
+
+There is a packet with html text. Follow the HTTP Stream to get the flag.
+
+
+
+
+
 
