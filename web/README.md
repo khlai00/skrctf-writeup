@@ -98,7 +98,7 @@ Check out my SQL Service website!
 
 This is another SQL Injection challenge.
 
-Use the SQLi payload from [*My First SQL*]() to get the flag.
+Use the SQLi payload from [*My First SQL*](README.md#my-first-sql) to get the flag.
 
 
 
